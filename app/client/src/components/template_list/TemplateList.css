@@ -1,0 +1,9 @@
+.listContainer {
+  width: 298px;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  max-width: 300px;
+}

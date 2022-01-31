@@ -1,0 +1,14 @@
+button {
+  width: 298px;
+  height: 30px;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.selected {
+  color: #BB001B;
+  font-weight: 700;
+  background-color: #fce8e6;
+}

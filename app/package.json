@@ -1,0 +1,13 @@
+{
+  "name": "gmail_template",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "ruby gmail_template.rb & cd client && npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}
